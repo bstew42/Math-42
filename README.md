@@ -1,0 +1,2 @@
+# Math-42
+Math 42 is a class on mathematical modeling. The homeworks and projects can be done using the software of the students choosing, and I use Python for this class. Topics covered in this class include dynamical systems, stochastic models, and Math 42 is a class on mathematical modeling. The homeworks and projects can be done using the software of the students choosing, and I use Python for this class. Topics covered in this class include discrete and continous dyamical systems as well as discrete and continuos stochastic models.
